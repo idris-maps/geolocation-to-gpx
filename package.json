@@ -1,0 +1,15 @@
+{
+  "name": "geolocation-to-gpx",
+  "version": "1.0.0",
+  "description": "Convert array of positions from browser-geolocation to GPX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GPX",
+    "geolocation"
+  ],
+  "author": "idris-maps.com",
+  "license": "GPL-2.0"
+}
